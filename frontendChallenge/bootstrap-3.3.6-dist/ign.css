@@ -1,0 +1,68 @@
+p{ 
+margin:auto; 
+}
+
+
+.subHead{
+	
+	margin:auto; 
+	line-height:0px;
+	color:gray;
+}
+
+
+.p2{
+	margin-top: 1em;
+	color:red;
+}
+.p3{
+	margin-top: 1em;
+	color:white;
+}
+.row{
+	background-repeat:no-repeat;
+	height:50px;
+    outline: .5px solid black;
+	
+}
+
+
+.darkerbg{
+	background:#666;
+}
+.darkestbg{
+	background:#333;
+}
+a:link{
+	color:black;
+}
+a:hover{
+	color:white;
+}
+a:avtive{
+	color:black;
+	text-decoration: underline;
+}
+a:visited {
+    text-decoration: none;
+	color:black;
+}
+.row:hover{
+	color:white;
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+h2{
+	   margin:auto; 
+	   font-size: 15px;
+}
+.row1{
+	background-image: url("headRow5.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+}
+#head{
+	background-image: url("headRow5.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+}

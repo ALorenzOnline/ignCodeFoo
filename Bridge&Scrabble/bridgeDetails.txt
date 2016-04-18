@@ -1,0 +1,33 @@
+=================================================================================
+++++++++++++How Many Legos to rebuild the Golden Gate bridge?++++++++++++++++++++
+=================================================================================
+
+OK to solve this we need to get the size of the bridge first
+
+Its Length is 8981ft =107772in
+and the width=90ft = 1080in
+
+
+next we need to see the dimensions of a lego brick
+(We will use the standard 4 peg brick)
+
+L= 31.8mm = 1.252in
+w= 15.8mm = 0.622in
+
+
+
+next lets see how many bricks it would to complete 1 length run
+
+1.25x=1077772
+107772/1.25= 862217.6
+
+
+next lets see how many bricks it would to complete 1 width run
+0.622x =1080 
+1080/0.622=1736.33
+
+next just finish the math
+1736.33 * 86217.6
+
+149702206 lego bricks
+This ignores the height of the towers because I could not find detailed dimensions besides height
