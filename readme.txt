@@ -26,14 +26,16 @@ parseDate()-is the constructor
 readText()-will load the dates given into an array
 parseAndRec()-will start the conversions
 
+Also the .java file will be located in the src folder
+
 ------------------------------------------------
 ++++++++++++++++++AZERTY++++++++++++++++++++++++
 ------------------------------------------------
 For this I used javas APPLET, and created a key listener.
 If the key was a Q or an A it would swap them, same with the Z and the W
-the H key was also made to be a stickey key, and shit will now type H.
+the H key was also made to be a stickey key, and shift will now type H.
 
-
+Also the .java file will be located in the src folder
 
 
 -------------------------------------------------
